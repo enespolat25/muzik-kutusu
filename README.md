@@ -2,4 +2,4 @@
 
 Yalın html-css-javascript ile müzik kutusu uygulaması
 
-![](./image.jpeg)
+![](./image.jpg)
